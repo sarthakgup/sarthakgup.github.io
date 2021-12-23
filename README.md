@@ -1,6 +1,7 @@
 # sarthakgup.github.io
 Sarthak Gupta's personal website.
 
+Link: [sarthakgup.github.io](Site Link)
 
 ## Page Sections:
 - Skills
